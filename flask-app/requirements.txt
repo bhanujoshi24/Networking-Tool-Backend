@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+Flask-PyMongo
+flask-cors
+Jinja2  # Example version, use the latest version that works with your Flask version
+Flask-Bcrypt
